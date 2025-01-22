@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeaDylan
 - 👀 I’m interested in computer science, apps development, mathematics and video games.
-- 🌱 I’m currently learning computer science (C++, Java, Js, HTML, CSS, database, data science, Python ...) in the University of Lyon (France)
-<--- - 💞️ I’m looking to collaborate on ... --->
+- 🌱 I’m just complete my master degree in computer science (C++, Java, Js, HTML, CSS, database, data science, Python, mesh, render, vision analysis ...) in the University of Lyon (France)
+
 - 📫 How to reach me : by mail (dylanjeannin@gmail.com)
 
 <!---
