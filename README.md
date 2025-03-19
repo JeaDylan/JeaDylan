@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JeaDylan
+- 👋 Hi, I’m Dylan JEANNIN
 - 👀 I’m interested in computer science, apps development, mathematics and video games.
-- 🌱 I’m just complete my master degree in computer science (C++, Java, Js, HTML, CSS, database, data science, Python, mesh, render, vision analysis ...) in the University of Lyon (France)
+- 🌱 I just completed my master degree in computer science (C++, Java, Js, HTML, CSS, database, data science, Python, mesh, render, vision analysis ...) in the University of Lyon (France)
 
 - 📫 How to reach me : by mail (dylanjeannin@gmail.com)
 
